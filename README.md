@@ -1,5 +1,19 @@
 # CorporatePlus
 
+Corporate Plus is a Free Web Application to Manage
+
+Attendance Management
+
+Performance Management
+
+Payroll Management
+
+Recruitment Management
+
+Employee Management
+
+Leave Management
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
 
 ## Development server
